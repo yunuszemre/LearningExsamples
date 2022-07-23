@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosuMesafaOlcer", "KosuMesafaOlcer\KosuMesafaOlcer.csproj", "{EAE32CB2-7382-49E8-97D8-7F2CE0023C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosuMesafeOlcerAdımGuncelleyerek", "KosuMesafeOlcerAdımGuncelleyerek\KosuMesafeOlcerAdımGuncelleyerek.csproj", "{8C73A122-1C12-409F-A1A3-A94E4819E1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE32CB2-7382-49E8-97D8-7F2CE0023C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE32CB2-7382-49E8-97D8-7F2CE0023C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE32CB2-7382-49E8-97D8-7F2CE0023C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE32CB2-7382-49E8-97D8-7F2CE0023C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C73A122-1C12-409F-A1A3-A94E4819E1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C73A122-1C12-409F-A1A3-A94E4819E1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C73A122-1C12-409F-A1A3-A94E4819E1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C73A122-1C12-409F-A1A3-A94E4819E1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168730B4-DAEA-4047-A7BB-F495A5B3D459}
+	EndGlobalSection
+EndGlobal

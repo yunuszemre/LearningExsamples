@@ -22,6 +22,7 @@ namespace GenericKavrami
             GenericMethod(new Button());
             GenericMethod<Button>(new Button());
             GenericMethod("asd", 1223);
+            GenericMethod(1223,12213);
         }
 
         private void GenericMethod<T>(T parameter)

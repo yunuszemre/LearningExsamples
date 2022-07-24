@@ -22,4 +22,18 @@ namespace GenericKavrami
 
         }
     }
+
+    public class ServiceResult
+    {
+        public bool Succes { get; set; }
+        public object Data { get; set; }
+    }
+
+    public class GenericServiceResult<T>
+    {
+        public bool Success { get; set; }
+        public T Data { get; set; }
+    }
+
+    
 }
